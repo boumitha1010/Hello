@@ -1,2 +1,6 @@
 # Hello
-just another repository
+hi!
+
+LIFE IS HARD 
+BUT 
+NOT IMPOSSIBLE...
